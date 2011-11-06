@@ -1,0 +1,7 @@
+c:\users\damien\documents\visual studio 2010\Projects\AppHar\AppHar\bin\AppHar.dll
+c:\users\damien\documents\visual studio 2010\Projects\AppHar\AppHar\bin\AppHar.pdb
+c:\users\damien\documents\visual studio 2010\Projects\AppHar\AppHar\bin\EntityFramework.dll
+c:\users\damien\documents\visual studio 2010\Projects\AppHar\AppHar\bin\EntityFramework.xml
+c:\users\damien\documents\visual studio 2010\Projects\AppHar\AppHar\obj\Debug\AppHar.csprojResolveAssemblyReference.cache
+c:\users\damien\documents\visual studio 2010\Projects\AppHar\AppHar\obj\Debug\AppHar.dll
+c:\users\damien\documents\visual studio 2010\Projects\AppHar\AppHar\obj\Debug\AppHar.pdb
