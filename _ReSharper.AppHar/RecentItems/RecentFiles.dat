@@ -4,7 +4,6 @@
     <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/f:Web.Debug.config" caret="0" fromTop="0" />
     <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/f:readme.txt" caret="0" fromTop="0" />
     <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/d:Views/d:Home/f:About.aspx" caret="199" fromTop="3" />
-    <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/d:Views/d:Shared/f:Site.Master" caret="1087" fromTop="26" />
     <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/d:Views/d:Shared/f:Error.aspx" caret="0" fromTop="0" />
     <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/f:Global.asax.cs" caret="0" fromTop="0" />
     <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/f:packages.config" caret="0" fromTop="0" />
@@ -12,6 +11,7 @@
     <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/f:Web.config" caret="1376" fromTop="1" />
     <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/d:Views/d:Home/f:Index.aspx" caret="393" fromTop="12" />
     <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/f:Web.Release.config" caret="0" fromTop="0" />
+    <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/d:Views/d:Shared/f:Site.Master" caret="629" fromTop="10" />
   </RecentFiles>
   <RecentEdits>
     <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/f:Web.config" caret="441" fromTop="10" />
@@ -23,8 +23,8 @@
     <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/d:Views/d:Home/f:About.aspx" caret="362" fromTop="9" />
     <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/d:Views/d:Home/f:About.aspx" caret="199" fromTop="3" />
     <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/d:Views/d:Home/f:Index.aspx" caret="196" fromTop="3" />
-    <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/d:Views/d:Shared/f:Site.Master" caret="626" fromTop="14" />
-    <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/d:Views/d:Shared/f:Site.Master" caret="204" fromTop="6" />
     <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/d:Controllers/f:HomeController.cs" caret="291" fromTop="12" />
+    <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/d:Views/d:Shared/f:Site.Master" caret="1138" fromTop="17" />
+    <File id="7688B6C7-6EBB-46CA-81A5-AD9D5C9C6833/d:Views/d:Shared/f:Site.Master" caret="629" fromTop="10" />
   </RecentEdits>
 </RecentFiles>
